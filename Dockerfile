@@ -1,4 +1,4 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.3.0
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.4.0
 
 RUN yum -y install unzip
 
